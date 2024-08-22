@@ -1,4 +1,4 @@
-https://github.com/soyzo/Skid-Phish/blob/main/image.jpg
+![SkidPhish Logo](https://github.com/soyzo/Skid-Phish/raw/main/image.jpg)
 
 SkidPhish is a straightforward and effective tool designed for users looking to create phishing simulation pages for ethical testing and training purposes. 
 This Python script, runnable in Google Colab, allows users to quickly pull the HTML content from any given URL and integrate it with a RequestBin link to capture form submissions and HTTP requests.
